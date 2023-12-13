@@ -3,7 +3,7 @@
 /*
  * Plugin Name: HTDEV test task custom post type
  * Description: Регистрирует свой тип записи 'Books'
- * Author:      Marat Zalyalov
+ * Author:      Maxivillus
  * Version:     0.1
  *
  * Text Domain: htdev-custom-post
